@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am Sherif Adigun
+
+Resourceful software developer, works under little or no supervision and learns very fast. Loves open source technologies and likes to work from home.
+
+- Writes clean code in Python,
+- Architect Web Solution & API with Django & Django Rest framework,
+- Handles background tasks with Celery & Django-q,
+- Builds interactive interfaces with  Javascript & Jquery,
+- Good at HTML,  HTMX, Drupal, & Git. 
+- Familiar with Amazon Web Services and manages time with Jira.
+
+![](https://komarev.com/ghpvc/?username=adigunsherif&color=green)
